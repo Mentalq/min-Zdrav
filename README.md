@@ -22,7 +22,7 @@ Anytka Mamkina
 Cicero Djuzeppo
 Angelo Marconi
 Darianna Price
-(Anna Tich)"
+Anna Tich
 Daniel Malfoy
 Arman Jambaev
 Artem Bojka
