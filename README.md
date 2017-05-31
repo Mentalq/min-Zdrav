@@ -1,5 +1,5 @@
-Aaron_Zisman
-Aaron_Latte
+Aaron Zisman
+Aaron Latte
 Aleister Flame
 August Squade
 Anway Gotti
@@ -50,7 +50,7 @@ Brain Ryabkov
 Bobo Hatler 
 Brain Boo 
 Chief Jostkiy
-Calvin_Houssers
+Calvin Houssers
 Cipa Osu
 Antoha Tang
 Corli Corleone
