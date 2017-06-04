@@ -1,5 +1,4 @@
 А:
-Vovan_Mental
 Aaron_Zisman
 Aaron_Latte
 Aleister_Flame
