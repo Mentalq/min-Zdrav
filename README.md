@@ -55,6 +55,7 @@ Brain_Boo
 С:
 Chief_Jostkiy
 Calvin_Houssers
+Captain_Price
 Cipa_Osu
 Antoha_Tang
 ( Corli_Corleone)
