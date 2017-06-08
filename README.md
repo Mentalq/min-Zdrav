@@ -3,7 +3,6 @@ Aaron_Zisman
 Aaron_Latte
 Aleister_Flame
 August_Squade
-Anway_Gotti
 Aleksandr_Rumyanzev
 Alex_Burdite
 Alex_Rites
